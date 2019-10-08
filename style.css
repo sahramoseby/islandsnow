@@ -1,6 +1,10 @@
-.ui.borderless.menu {
+.ui.borderless.topmenu.menu {
   background-color: #f7f7f7;
-  border-color: #f7f7f7;
+  border: none;
   box-shadow: none;
+}
 
+.ui.borderless.middlemenu.menu {
+  border: none;
+  box-shadow: none;
 }
