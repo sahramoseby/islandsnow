@@ -8,3 +8,23 @@
   border: none;
   box-shadow: none;
 }
+
+.footer-background {
+  background-color: #ffffff;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.ui.action.input {
+  background-color: #ededed;
+}
+
+.ui.three.column.grid.container {
+  border-top: solid 1px #ededed;
+  border-bottom: solid 1px #ededed ;
+  padding: 30px;
+}
+
+.ui.centered.icon.grid.container {
+  padding: 30px;
+}
